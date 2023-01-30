@@ -1,5 +1,7 @@
 # EDA Project: Diagnosing Diabetes
 
+*[project in progress]*
+
 ![image](https://user-images.githubusercontent.com/96028654/215403383-e49fc304-721e-4ceb-a42d-7b085cec9bb2.png)
 
 ## Overview
